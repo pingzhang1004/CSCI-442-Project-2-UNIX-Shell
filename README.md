@@ -2,7 +2,7 @@
 #### using C
 
 ## Implemented a UNIX-like bash shell that supports an arbitrary number of commands associated with files on the filesystem and pipes, enabling pipelines with file redirection.
-## For example: arg1 arg2 arg3 < input_file arg4 | cmd2_arg1 >> append_file.
+##### For example: arg1 arg2 arg3 < input_file arg4 | cmd2_arg1 >> append_file.
 
 
 #### 1. Utilized any of the exec* family of library functions (such as execvp(3)) to find the command in the PATH to execute the command using fork(2) and execve(2).
