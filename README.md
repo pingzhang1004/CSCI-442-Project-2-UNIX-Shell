@@ -1,5 +1,7 @@
 # CSCI-442-Project-2-UNIX-Shell
-#### using C
+###### * Using C programming language 
+###### * I'd be happy to provide source code for interviews!
+###### * The course project code is not allowed to be published online，but I am happy to share the ideas of implementation and running results of my algorithm!
 
 ## Implemented a UNIX-like bash shell that supports an arbitrary number of commands associated with files on the filesystem and pipes, enabling pipelines with file redirection.
 ##### For example: arg1 arg2 arg3 < input_file arg4 | cmd2_arg1 >> append_file.
