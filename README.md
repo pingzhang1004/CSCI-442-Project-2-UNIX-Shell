@@ -1,5 +1,5 @@
 # CSCI-442-Project-2-UNIX-Shell
-###### * Using C programming language 
+###### * Using C programming language in Linux 
 ###### * I'd be happy to provide source code for interviews!
 ###### * The course project code is not allowed to be published online，but I am happy to share the ideas of implementation and running results of my algorithm!
 
